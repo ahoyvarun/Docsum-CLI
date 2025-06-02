@@ -14,6 +14,28 @@
 
 ---
 
+## Quick Start
+### 1. Clone the repo
+```bash
+git clone https://github.com/ahoyvarun/Docsum-CLI.git
+cd Docsum-CLI
+```
+### 2. Restore Dependencies
+Make sure you have .NET SDK 6.0+ installed.
+```bash
+dotnet restore
+```
+### 3. Set up your OpenAI key (if using the API)
+```bash
+export OPENAI_API_KEY=your-key-here
+```
+### 4. Run the summarizer
+```bash
+dotnet run -- --file sample.txt --export --lang de
+```
+
+---
+
 ## CLI Options
 | Flag        | Description |
 |-------------|------------------|
