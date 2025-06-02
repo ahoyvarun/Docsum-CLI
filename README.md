@@ -10,7 +10,7 @@
 -  Local-only mode for full privacy
 -  Translation support (e.g., English → French)
 -  Export summaries as PDF
-- ✍ Self-improving via feedback-based training
+-  Self-improving via feedback-based training
 
 ---
 
