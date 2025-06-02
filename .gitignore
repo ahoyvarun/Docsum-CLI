@@ -1,0 +1,21 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.zip
+
+# Mac system files
+.DS_Store
+
+# Visual Studio Code folder
+.vscode/
+
+# Backup files
+*~
